@@ -5,7 +5,9 @@
 ## Решение
 
 https://iskhakov-public.github.io/shri-performance/stats.html - Страница со статистикой
+
 https://iskhakov-public.github.io/shri-performance/application.html - Страница с приложением
+
 https://github.com/iskhakov-public/shri-performance - репозиторий
 
 Сделаны метрики:
